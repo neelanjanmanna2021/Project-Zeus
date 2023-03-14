@@ -1,0 +1,14 @@
+install the two executables on windows host
+
+compile command python.exe .\exe.py py2exe on windows host
+
+sudo pip3 install pycryptodome on kali vm
+
+run gen.py in kali vm to generate your payload on kali vm
+
+run listener.py to setup the listening console on kali vm
+
+use ngrok at your will
+
+
+
