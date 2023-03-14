@@ -10,5 +10,9 @@ run listener.py to setup the listening console on kali vm
 
 use ngrok at your will
 
+port number is fixed at 443
+
+ngrok comamnd for kali is ./ngrok tcp 443
+
 
 
